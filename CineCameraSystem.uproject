@@ -12,9 +12,9 @@
 			]
 		},
 		{
-			"Name": "DataTableEditorUtilities",
+			"Name": "ComponentTimeline",
 			"Enabled": true,
-			"MarketplaceURL": "https://unrealengineresources.com/plugins"
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/a861fe34f1f94dcca67cdb2ce376bd24"
 		}
 	]
 }
